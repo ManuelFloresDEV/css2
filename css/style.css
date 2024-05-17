@@ -1,0 +1,46 @@
+* {
+    margin: 15px;
+}
+body {
+    background-color: rgb(255, 187, 0);
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner {
+    border: 1px solid black;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 20px;
+    width: 358px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    filter: drop-shadow(8px 8px);
+    
+}
+
+button {
+    background-color: rgb(255, 187, 0);
+    border: none;
+    margin: ;
+}
+.main {
+    border-radius: 5%;
+    width: 300px;
+    height: 200px;
+}
+
+.yo img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 0px;
+
+}
+.yo p {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 0px;
+}
